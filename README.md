@@ -18,7 +18,7 @@ This project employs a dataset enriched with various property attributes to trai
 ### Prerequisites
 
 Ensure you have the following installed:
-- Python 3.8 or higher
+- Python 3.12 
 - Libraries: Pandas, Scikit-learn, XGBoost, Matplotlib
 
 ### Installation
